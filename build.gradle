@@ -3,7 +3,7 @@ apply plugin: 'jacoco'
 apply plugin: 'application'
 
 
-mainClassName = 'TugasPBO9.PBO610119918Latihan9Teks'
+mainClassName = 'TugasPBO9.PBO10K10119918Latihan9Teks'
 
 repositories {
     jcenter()

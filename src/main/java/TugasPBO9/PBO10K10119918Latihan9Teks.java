@@ -7,9 +7,15 @@ package TugasPBO9;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk menampilkan jenis-jenis 
+ * tipe data teks
+ * 
  */
-public class PBO610119918Latihan9Teks {
+public class PBO10K10119918Latihan9Teks {
 
     /**
      * @param args the command line arguments
